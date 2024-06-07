@@ -1,5 +1,5 @@
 {
-  "name": "@spheron/desub-js",
+  "name": "@nitin-spheron/desub-js",
   "version": "2.6.7",
   "description": "Typescript library for working with the decentralised subscription contracts in Spheron",
   "main": "build/index.js",
